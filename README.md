@@ -12,7 +12,7 @@ I am a passionate tech enthusiast from Bangladesh, actively preparing for intern
 ### 💻 Tech Stack & Skills
 * **Languages:** Python
 * **Data Science & ML:** Pandas, Scikit-Learn, Exploratory Data Analysis (EDA), Linear Regression
-* **Tools:** PyCharm, GitHub, Kaggle
+* **AI & Automation Tools:** Voiceflow, Make.com (Webhooks), PyCharm, GitHub, Kaggle
 
 ### 🚀 Current Focus
 * Expanding my machine learning portfolio (transitioning from EDA to Predictive Modeling).
@@ -21,5 +21,5 @@ I am a passionate tech enthusiast from Bangladesh, actively preparing for intern
 
 ### 📊 Featured Project
 * **Student Performance Analysis:** An end-to-end data analysis project using Python and Pandas, featuring a Machine Learning model (Linear Regression) to predict student exam scores based on study hours.
-
+* **Urban Style BD — AI Customer Support Agent:** An automated e-commerce customer support and lead generation chatbot built with Voiceflow, Make.com Webhooks, and Google Sheets for real-time CRM lead logging.
 📫 **How to reach me:** [raufunhasan78@gmail.com](mailto:raufunhasan78@gmail.com)
